@@ -398,3 +398,5 @@ fabric.properties
 .history/
 
 # End of https://mrkandreev.name/snippets/gitignore-generator/#Java,Node,Kotlin,Android,AndroidStudio,VisualStudioCode
+
+__pycache__/
